@@ -1,0 +1,4 @@
+
+# printing python using join
+py = ['p','y','t','h','o','n']
+print("!".join(py))
